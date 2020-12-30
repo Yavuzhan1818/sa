@@ -1,0 +1,36 @@
+{
+  "name": "RTX",
+  "version": "1.6.9",
+  "description": "lrows",
+  "main": "smart.js",
+  "scripts": {
+    "start": "node RTX.js"
+  },
+  "repository": {
+    "url": "https://glitch.com/edit/#!/hello-express"
+  },
+  "keywords": [
+    "node",
+    "glitch",
+    "express"
+  ],
+  "author": "bos",
+  "license": "MIT",
+  "dependencies": {
+    "discord.js": "^12.5.0",
+    "express": "^4.17.1",
+    "fs": "^0.0.2",
+    "moment": "^2.29.1",
+    "os": "^0.1.1",
+    "moment-duration-format": "^2.3.2",
+    "mongoose": "^5.10.15",
+    "parse-ms": "^2.1.0",
+    "ms" : "^2.1.2",
+    "hex-color-regex": "^1.1.0",
+    "quickmongo": "^2.0.5",
+    "discord-canvas": "^1.3.2"
+  },
+  "engines": {
+    "node": "12.x"
+  }
+}
